@@ -40,7 +40,13 @@
 
 ### Решение
 
-Репозиторий с playbook
+Репозиторий с [playbook](/ansible/playbook) 
+
+Репозиторий с [lighthouse-role](https://github.com/igorsprint-code/Lighthouse-role.git) 
+
+Репозиторий с [vector-role](https://github.com/igorsprint-code/Vector-role.git) 
+
+
 
 
 
